@@ -5,3 +5,4 @@
 - peer to peer connection
 - setup connection to db
 - establish authentication
+- authorization done via emaling
