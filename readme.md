@@ -1,12 +1,6 @@
-# RealTimeEdify
+# coWritter
 
-RealTimeEdify is a real-time collaborative document editing web application built using the MERN stack (MongoDB, Express.js, React, Node.js), Socket.IO for real-time communication, and Quill as the text editor.
-
-## Screenshots:
-![image](https://github.com/user-attachments/assets/adcf343e-4cd4-409e-b194-c9ec7a3be3ac)
-![image](https://github.com/user-attachments/assets/808859f8-d3a0-40af-80aa-dff6e978a5c1)
-![image](https://github.com/user-attachments/assets/1a759dce-e026-4a16-8f93-13bce44c99e8)
-
+coWritter is a real-time collaborative document editing web application built using the MERN stack (MongoDB, Express.js, React, Node.js), Socket.IO for real-time communication, and Quill as the text editor.
 
 ## Features
 
@@ -23,13 +17,13 @@ The web app displays a list of online collaborators for each document. Users can
   <img width="521" alt="Email Verification" src="https://github.com/Slacky300/REAL_TIME_EDIFY/assets/98531038/1ecad94d-eb4b-408c-9b84-9434a9994461">
 </p>
 
-To enhance security and user authentication, RealTimeEdify implements email verification for user accounts. Users receive an email with a verification link upon registration.
+To enhance security and user authentication, coWritter implements email verification for user accounts. Users receive an email with a verification link upon registration.
 
-To enhance security and user authentication, RealTimeEdify implements email verification for user accounts. Users receive an email with a verification link upon registration.
+To enhance security and user authentication, coWritter implements email verification for user accounts. Users receive an email with a verification link upon registration.
 
 ### 4. Real-Time Editing
 
-Quill, a powerful and customizable WYSIWYG editor, is integrated into RealTimeEdify to provide a seamless real-time editing experience. Users can see live updates as collaborators edit the document.
+Quill, a powerful and customizable WYSIWYG editor, is integrated into coWritter to provide a seamless real-time editing experience. Users can see live updates as collaborators edit the document.
 
 ## Technologies Used
 
@@ -47,13 +41,13 @@ Quill, a powerful and customizable WYSIWYG editor, is integrated into RealTimeEd
 
 ## Getting Started
 
-Follow these steps to run RealTimeEdify locally:
+Follow these steps to run coWritter locally:
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/RealTimeEdify.git
-   cd RealTimeEdify
+   git clone https://github.com/your-username/coWritter.git
+   cd coWritter
    ```
 2. **Install dependencies for frontend:**
 
